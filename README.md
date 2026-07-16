@@ -24,6 +24,7 @@ A browser-based Tetris game built with React, TypeScript and Vite.
 - TypeScript
 - Vite
 - CSS
+- GSAP
 
 ## Satus
 
